@@ -1,0 +1,1 @@
+In the just started SE102 course (Linux and Version Control), I have learnt some git commands such as git init, git add, git push, git pull etc, which allows me to work on my projects through the command line and keep track of all changes made in my GitHub repositories.
